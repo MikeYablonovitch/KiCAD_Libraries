@@ -1,0 +1,17 @@
+Version 1.23: Updated MGM270 BXL files to part number MGM270SC22SNA4.
+Version 1.22: Added new BXL files for MGM270S, EFR32MG29, and SiMG301.
+Version 1.21: Added new BXL files for MGM260P.
+Version 1.20: Added new BXL files for EFR32MG26.
+Version 1.19: Added new BXL files for EFR32MG27 and MGM240L.
+Version 1.18: Added new BXL files for MGM240P and MGM240S.
+Version 1.17: Added new BXL files for EFR32MG24.
+Version 1.16: Added new BXL files for Series 2 based modules.
+Version 1.15: Separated revision history for each device, reordered internal structuring.
+Version 1.14: Corrected ZGM130S.bxl to remove EPAD; 
+	      Added product category manifest files to each product category zip file and edited this document to reflect that procedural change going forward; 
+	      Updated "generateManifests.py" to add family manifest filename to each family manifest file list.
+Version 1.13: Restored all correct EFR32MG and EFR32FG BXL files.
+Version 1.12: Restored EFR32BG family BXL files corrected by EMA, as well as files for EFR32BG1xx32F256GJ43 (CSP) variants, which were unaffected by the pinout swap error.
+Version 1.11: Removed all EFR32xG1x.bxl files for review.
+Version 1.10: Added new BXL files for EFR32xG21, EFR32xG22, misc. 
+Version 1.00: Initial release.
